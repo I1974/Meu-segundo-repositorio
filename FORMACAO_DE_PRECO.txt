@@ -1,4 +1,4 @@
-declare
+declare grupoB
   v_empresa         number    := :p1;
   v_usuario         number    := :p2;
   v_item            varchar2(20)  := :p3;
